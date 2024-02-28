@@ -1,0 +1,124 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 700px;
+  padding: 30px 50px;
+  margin: 20px auto;
+  border-radius: 20px;
+  background: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.t1 {
+  border: 1px solid red;
+  margin: 0px auto;
+}
+
+.timetable {
+  border: 1px dotted blue;
+  padding: 10px;
+}
+
+#r1 {
+  background-color: #053561;
+  color: white;
+}
+
+.block {
+  background-color: black;
+  color: white;
+}
+
+.small {
+  font-size: 8px;
+  font-style: italic;
+}
+
+.sub:hover {
+  background: #06413a;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+  transition: all 0.5s;
+}
+
+#eng:hover {
+  padding: 22px;
+  transition: all 0.5s;
+}
+
+#chinese:hover {
+  padding: 23px;
+  transition: all 0.5s;
+}
+
+/* Socials Timetable. */
+
+.t2 {
+  margin: 30px auto;
+  background-color: #0c6c9d;
+  border-radius: 30px;
+  padding: 30px;
+}
+
+#boldened {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+/* College Table. */
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: #008b8b;
+}
+
+#ct {
+  background-color: #87ceeb;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#t3 {
+  border: 1px solid #808080;
+  margin: 20px;
+}
+
+.ctd {
+  border: 1px solid #353c3f;
+}
+
+.blue {
+  color: blue;
+}
+
+.pink {
+  color: pink;
+}
+
+.red {
+  color: red;
+}
+
+.maroon {
+  color: maroon;
+}
+
+.brown {
+  color: brown;
+}
+
+.yellow {
+  color: #f6a844;
+}
+
+.green {
+  color: green;
+}
+
+.time {
+  text-align: left;
+  font-size: 13px;
+}
